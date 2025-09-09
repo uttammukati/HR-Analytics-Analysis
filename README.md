@@ -3,7 +3,7 @@
 This **Power BI** project presents an interactive and insightful **HR Analytics Dashboard**.
 It is designed to monitor key workforce metrics, enabling **HR managers and business leaders** to make data-driven decisions for improving **employee retention, engagement, and performance**.
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](Screenshot 2025-08-18 155829.png)
 
 ---
 
