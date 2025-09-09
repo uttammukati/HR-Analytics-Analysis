@@ -4,7 +4,7 @@ This **Power BI** project presents an interactive and insightful **HR Analytics 
 It is designed to monitor key workforce metrics, enabling **HR managers and business leaders** to make data-driven decisions for improving **employee retention, engagement, and performance**.
 
 ![image alt](https://github.com/uttammukati/HR-Analytics-Analysis/blob/27bc0393ef744f30043ed0704eae1f6183213a29/Screenshot%202025-08-18%20155829.png)
-
+![image alt](https://github.com/uttammukati/HR-Analytics-Analysis/blob/caf9a58ada3577fbda35fc00d1f57aa9d6ee0aa4/Screenshot%202025-08-18%20155859.png)
 ---
 
 ## 🎯 Project Objective
